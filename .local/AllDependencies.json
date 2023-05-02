@@ -18125,15 +18125,15 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\moghdebd\\.nuget\\packages\\": {}
+    "C:\\Users\\dhiaa\\.nuget\\packages\\": {}
   },
   "project": {
     "restore": {
       "projectUniqueName": "Update Clients in Integra System-OPW",
       "projectName": "Update Clients in Integra System-OPW",
-      "projectPath": "F:\\Accounts\\Restricted\\Votes\\RPA\\Projects\\DHIAA-PROJECTS\\Update Clients in Integra System-OPW\\.local",
-      "packagesPath": "C:\\Users\\moghdebd\\.nuget\\packages\\",
-      "outputPath": "F:\\Accounts\\Restricted\\Votes\\RPA\\Projects\\DHIAA-PROJECTS\\Update Clients in Integra System-OPW\\.local"
+      "projectPath": "C:\\Users\\dhiaa\\OneDrive\\Desktop\\OPW\\DHIAA-PROJECTS\\Update Clients in Integra System-OPW\\Performer-Update Clients in Integra System-OPW\\.local",
+      "packagesPath": "C:\\Users\\dhiaa\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\dhiaa\\OneDrive\\Desktop\\OPW\\DHIAA-PROJECTS\\Update Clients in Integra System-OPW\\Performer-Update Clients in Integra System-OPW\\.local"
     },
     "frameworks": {
       "net6.0-windows7.0": {
@@ -18159,7 +18159,7 @@
             "version": "[22.10.4, 22.10.4]"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Users\\moghdebd\\AppData\\Local\\Programs\\UiPath\\Studio\\runtime.json"
+        "runtimeIdentifierGraphPath": "C:\\Users\\dhiaa\\AppData\\Local\\Programs\\UiPath\\Studio\\runtime.json"
       }
     },
     "runtimes": {
